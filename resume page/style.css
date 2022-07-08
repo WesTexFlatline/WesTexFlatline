@@ -1,0 +1,68 @@
+html { 
+  background: url(background8.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h5{
+	font-family: 'Exo 2', sans-serif;
+	font-size: 2rem;
+	
+
+}
+h1{
+
+	font-family: 'Source Code Pro', monospace;
+	font-size: 5rem;
+	color: rgb(163, 194, 194);
+	text-shadow: 1px 1px 1px rgb(255, 83, 26),
+					5px 5px 2px rgb(51, 77, 77),
+					6px 6px 2px rgb(255, 83, 26);
+	text-align: center;
+	text-transform: uppercase;
+
+}
+
+body{
+	background-color: transparent;
+	
+
+}
+.container1{
+	text-align: center;
+	border:.25rem solid rgba(0,0,0,.25);
+	background-color: rgba(0, 0, 0,.5);
+}
+p1{
+	text-align: center;
+	color: white;
+	font-size: 3rem;
+}
+
+
+
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lime;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
